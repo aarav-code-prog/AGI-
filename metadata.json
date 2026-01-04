@@ -1,0 +1,7 @@
+{
+  "name": "AGI Project - Mahi X Prerit",
+  "description": "An advanced Artificial General Intelligence interface featuring reasoning, analysis, and code generation capabilities, styled with a futuristic deep-blue aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
